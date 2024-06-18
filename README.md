@@ -1,4 +1,4 @@
-#A simple Web-App imitation of the Imdb.com
+##A simple Web-App imitation of the Imdb.com
 The only functionalities are:
     -Search a movie
     -Click the movie, to procceed to an information page
